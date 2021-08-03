@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LazyJacob55
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning Java and python
+- 📫 How to reach me Discord
